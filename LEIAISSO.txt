@@ -1,0 +1,18 @@
+Essa é a resolução da atividade de implementação de lista duplamente encadeada e lista circular.
+
+Alunos:
+202511316025 - Guilherme Magalhães Moraes de Souza
+[RGA] - Cauã Rodrigo de Almeida Rosa
+[RGA] - Arthur Silva Fagundes
+
+- Dentro do arquivo "lista_circular.cpp" e "Lista Circular.pdf", você pode ver o código de 
+implementação da lista circular. 
+- Dentro do arquivo "lista_duplamente_encadeada.cpp" e "Lista Duplamente Encadeada.pdf", você pode
+ver o código de implementação da lista duplamente encadeada.
+
+Para rodar os arquivos, existem arquivos .exe de cada um incluídos, mas caso necessário
+utilize qualquer compilador de C++, como o g++.
+
+Exemplo com o g++:
+- g++ lista_circular.cpp -o lista_circular.exe
+- g++ lista_duplamente_encadeada.cpp -o lista_duplamente_encadeada.exe
