@@ -2,7 +2,7 @@ Essa é a resolução da atividade de implementação de lista duplamente encade
 
 Alunos:
 202511316025 - Guilherme Magalhães Moraes de Souza
-[RGA] - Cauã Rodrigo de Almeida Rosa
+202511316011 - Cauã Rodrigo de Almeida Rosa
 [RGA] - Arthur Silva Fagundes
 
 - Dentro do arquivo "lista_circular.cpp" e "Lista Circular.pdf", você pode ver o código de 
